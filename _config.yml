@@ -27,7 +27,7 @@ company_name: Comparethemarket
 markdown: kramdown
 
 #Have to show future posts for future events.
-future: true
+future: false
 
 permalink: /event/:title.html
 
