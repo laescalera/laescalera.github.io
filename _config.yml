@@ -9,7 +9,7 @@
 title: La Escalera
 
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
-event_label: Events
+event_label:
 
 description: > # this means to ignore newlines until "baseurl:"
   Algunos Datos Tecnicos de tecnología, asi como pequeños tutoriales.
