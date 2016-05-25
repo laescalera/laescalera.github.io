@@ -29,5 +29,5 @@ markdown: kramdown
 #Have to show future posts for future events.
 future: false
 
-permalink: /event/:title.html
+permalink: /pub/:title.html
 
