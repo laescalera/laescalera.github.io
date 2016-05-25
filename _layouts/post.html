@@ -11,8 +11,7 @@ layout: default
     {% if organiser.photo %}
         <h3 class="post-organisers-name">Por: {{organiser.name}}</h3>
     {% endif %}
-    <h2 class="post-date"><time datetime="{{}}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</h2>
-    <h3 class="post-time">{{ page.start_time}}{{page.end_time }}</h3>
+    
   </header>
 
   {% if organiser.photo %}
