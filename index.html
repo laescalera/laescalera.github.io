@@ -37,7 +37,7 @@ cover: 'http://res.cloudinary.com/escabox/image/upload/c_scale,h_250/v1464143879
     </div>
     <div class="clearfix">
 
-      <h1 class="event-time-heading">Ya Pasaron {% if site.event_label %} {{site.event_label}} {% else %}  {% endif %} </h1>
+      <h1 class="event-time-heading">{% if site.event_label %} {{site.event_label}} {% else %}  {% endif %} </h1>
       {% for post in site.posts %}
 
         {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
