@@ -1,8 +1,8 @@
 ---
-published: false
+
 layout: post
 title: seguridad digital
-cover: 'http://blog.jetbrains.com/phpstorm/files/2015/10/large_v-trans.png'
+cover: 'http://placerdigital.net/pdblog/wp-content/uploads/2012/07/gif-animado-2.gif'
 date: 2016-06-04T00:00:00.000Z
 ---
 ## Seguridad Digital
