@@ -4,6 +4,7 @@ title: Edificio en forma de Pez
 date: 2016-05-20T10:55:31+00:00
 author: box
 layout: post
+cover: "http://res.cloudinary.com/escabox/image/upload/c_scale,q_65,w_792/h_422,w_750/v1463763125/pez_o_pecaito_e2nmux.jpg"
 guid: http://laescalera.net/?p=137
 permalink: /edificio-en-forma-de-pez/
 wpex_post_layout:
