@@ -4,6 +4,7 @@ title: La Anemona Voladora
 date: 2016-04-12T18:33:39+00:00
 author: box
 layout: post
+cover: "http://res.cloudinary.com/escabox/image/upload/v1466285111/laescalera.net_._airjelly.jpg"
 guid: http://laescalera.net/?p=25
 permalink: /la-anemona-voladora/
 wp_review_location:
