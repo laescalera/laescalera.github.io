@@ -4,7 +4,7 @@ title: imagen o video
 date: 2016-06-06T17:02:47+00:00
 author: box
 layout: post
-cover. "http://res.cloudinary.com/escabox/image/upload/v1465254132/image1_bq8dys.png"
+cover:  "http://res.cloudinary.com/escabox/image/upload/v1465254132/image1_bq8dys.png"
 guid: http://laescalera.net/?p=166
 permalink: /imagen-o-video/
 wpex_post_layout:
