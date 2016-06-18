@@ -4,7 +4,7 @@ title: Un brillante invento
 date: 2016-04-26T08:45:36+00:00
 author: box
 layout: post
-cover: "http://res.cloudinary.com/escabox/image/upload/v1460579480/image1_yxo5zw.jpg"
+cover: "http://res.cloudinary.com/escabox/image/upload/q_42/v1466286561/laescalera.net__.__cinta-cinto_lnc46m.jpg"
 guid: http://laescalera.net/?p=100
 permalink: /un-brillante-invento/
 wp_review_location:
