@@ -4,6 +4,7 @@ title: Para el estres
 date: 2016-04-13T14:08:54+00:00
 author: box
 layout: post
+cover: "http://res.cloudinary.com/escabox/image/upload/v1460579480/image1_yxo5zw.jpg"
 guid: http://laescalera.net/?p=83
 permalink: /para-el-estres/
 wp_review_location:
