@@ -4,6 +4,7 @@ title: Estadísticas Facebook
 date: 2016-06-15T09:58:41+00:00
 author: box
 layout: post
+cover: "http://res.cloudinary.com/escabox/image/upload/v1466004095/laescalera.net_face__rxkbhe.jpg"
 guid: http://laescalera.net/?p=214
 permalink: /estadisticas-facebook/
 wpex_post_layout:
