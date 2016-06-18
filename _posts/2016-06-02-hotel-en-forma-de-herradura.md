@@ -6,6 +6,7 @@ author: box
 layout: post
 guid: http://laescalera.net/?p=153
 permalink: /hotel-en-forma-de-herradura/
+cover: 'http://res.cloudinary.com/escabox/image/upload/v1464899473/laescalera.net_sheraton_dfyhd8.jpg'
 wpex_post_layout:
   - 
 wpex_post_video:
