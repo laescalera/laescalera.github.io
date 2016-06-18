@@ -5,6 +5,7 @@ date: 2016-05-23T17:08:33+00:00
 author: box
 excerpt: En esta inusual fiesta encontramos varios personajes muy conocidos haciendo de las suyas ...
 layout: post
+cover: "http://res.cloudinary.com/escabox/image/upload/c_scale,q_38,w_852/c_crop,h_401,w_852,x_0,y_91/h_245,w_520/v1464044214/cartoons_party_by_rogferraz_mox8kz.jpg"
 guid: http://laescalera.net/?p=141
 permalink: /fiesta-de-caricaturas/
 wpex_post_layout:
