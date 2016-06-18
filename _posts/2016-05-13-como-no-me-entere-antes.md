@@ -4,7 +4,7 @@ title: Como no me enteré antes
 date: 2016-05-13T10:49:54+00:00
 author: box
 layout: post
-cover: ·http://res.cloudinary.com/escabox/image/upload/q_51/h_168,w_300/v1463146780/laescalera/cupen004.png·
+cover: "http://res.cloudinary.com/escabox/image/upload/q_51/h_168,w_300/v1463146780/laescalera/cupen004.png"
 guid: http://laescalera.net/?p=113
 permalink: /como-no-me-entere-antes/
 wp_review_location:
