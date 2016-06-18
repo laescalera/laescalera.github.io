@@ -4,6 +4,7 @@ title: Idioma mas facil de aprender
 date: 2016-06-02T07:52:20+00:00
 author: box
 layout: post
+cover: "http://res.cloudinary.com/escabox/image/upload/v1464874064/laescalera_asia_3_mwy7h7.jpg"
 guid: http://laescalera.net/?p=150
 permalink: /idioma-mas-facil-de-aprender/
 wpex_post_layout:
