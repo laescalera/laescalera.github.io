@@ -1,6 +1,8 @@
 ---
 published: true
 layout: post
+cover: >-
+  https://mir-s3-cdn-cf.behance.net/project_modules/disp/cbc69a17085171.562b572169e35.gif
 ---
 ## A New Post
 
