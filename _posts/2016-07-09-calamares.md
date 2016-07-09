@@ -8,7 +8,5 @@ cover: >-
 
 El nombre anterior era "caracoles" como muestra de asombro, pero era en realidad calamares, y con asombro tambien.
 
-![hongo saltarin]({{site.baseurl}}/https://cdn.scratch.mit.edu/static/site/users/avatars/1085/4800.png)
 
-
-
+![cafecito]({{site.baseurl}}/http://placerdigital.net/pdblog/wp-content/uploads/2012/07/gif-animado-2.gif)
