@@ -32,3 +32,10 @@ future: false
 
 permalink: /pub/:title.html
 
+
+metadata:
+  _posts:
+    - name: "title"
+      field:
+        element: "text"
+        label: "title"
